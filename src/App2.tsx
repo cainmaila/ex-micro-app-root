@@ -1,4 +1,4 @@
-window.__CHILD_APP_ROOT__ = 'https://cainmaila.github.io/ex-micro-app-child'
+// window.__CHILD_APP_ROOT__ = 'https://cainmaila.github.io/ex-micro-app-child'
 
 export default function App2() {
   return (
