@@ -7,5 +7,6 @@ declare namespace JSX {
   interface IntrinsicElements {
     'child-app': unknown
     'child-app-view2': unknown
+    'gis-view': unknown
   }
 }
